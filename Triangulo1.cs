@@ -25,6 +25,9 @@ namespace Triángulo
             Console.WriteLine("t=" + t);
             Console.WriteLine("a=" + agrados);
             Console.WriteLine("c =" + cgrados);
+            
+            //Enlace de la explicación https://www.youtube.com/watch?v=NGFu00YZk9E //Ahi estan todos los triángulos explicados :)
+            
         }
     }
 }
