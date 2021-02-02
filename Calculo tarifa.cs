@@ -29,6 +29,7 @@ namespace Calculo_tarifa
             {
                 Console.WriteLine("Usted es tarifa C");
             }
+            //video: https://youtu.be/R5_pBt8FZDo
 
         }
     }
