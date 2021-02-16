@@ -62,7 +62,7 @@ namespace UnDado
                 {
                     Console.WriteLine("Desea continuar? (s/n)");
                     respuesta = Console.ReadLine();
-                }
+                } //https://www.youtube.com/watch?v=kIB1jJBBu0s&feature=youtu.be
 
             }
         }
