@@ -7,7 +7,9 @@ namespace Black_Jack_Multijugador
         static void Main(string[] args)
         {
             {
-                //Variables
+                
+                
+                //https://www.youtube.com/watch?v=Ucy78NbEzpI
                 Random Aleatorio = new Random();
 
                 int jugadores = 0, contador = 0, maximo = 0, ganador = 0;
