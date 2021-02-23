@@ -6,7 +6,8 @@ namespace Euler
     {
         static void Main(string[] args)
         {
-
+//https://www.youtube.com/watch?v=Ucy78NbEzpI
+            
             Console.WriteLine("Ingrese el valor de x: ");
 
             double x = double.Parse(Console.ReadLine());
