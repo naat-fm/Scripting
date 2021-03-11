@@ -6,6 +6,8 @@ namespace String_Arreglo_de_datos
     {
         static void Main(string[] args)
         {
+            //https://youtu.be/iFAxloVL_5Y
+            
             string frase = "";
             string palabra = "";
 
